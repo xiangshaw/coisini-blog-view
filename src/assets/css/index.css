@@ -1,0 +1,13 @@
+/*顶部导航背景样式*/
+.page-nav-bar {
+    justify-content: space-between;
+    background-color: #f6f6f6;
+    align-items: center;
+    height: 90px;
+    padding: 0 10px;
+}
+
+/*顶部导航文字颜色*/
+.page-nav-bar .van-nav-bar__title {
+    color: #333;
+}

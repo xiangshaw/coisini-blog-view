@@ -1,0 +1,23 @@
+{
+  "id": "4618872",
+  "name": "外卖",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19415731",
+      "name": "返回首页",
+      "font_class": "icon-svg-04",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "25073880",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    }
+  ]
+}
